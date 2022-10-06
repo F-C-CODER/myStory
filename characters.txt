@@ -1,0 +1,4 @@
+The characyers of the story are:
+panda,
+lion,
+tiger
